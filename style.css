@@ -1,0 +1,51 @@
+#logo {
+    width : 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top : 20px;
+    margin-bottom: 20px;
+}
+
+#search {
+    text-align: center;
+}
+
+#search-bar{
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 45px;
+    padding-left: 10px;
+    margin-bottom: 35px;
+}
+
+#search2 {
+    border: 1px solid grey;
+    margin: 0 auto;
+    border-radius: 45px;
+}
+
+#loupe {
+    padding: 8px 15px;
+}
+
+#searchbar {
+    width: 90%;
+    border: 0px solid black;
+    height: 43px;
+}
+
+.col {
+    text-align: center;
+    padding-top : 7px;
+}
+
+.article {
+    background-color: lightgrey;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.article:hover {
+    border : 1px solid black;
+}
